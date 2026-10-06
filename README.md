@@ -281,7 +281,7 @@ Join [extra.community](https://extra.community/). There runs an automated tester
 <td>❓</td>
 <td>❓</td>
 <td>✔️</td>
-<td>🇺🇦</td>
+<td>🇺🇸</td>
 </tr>
 </tbody>
 </table>
